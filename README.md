@@ -1,3 +1,5 @@
 # codingjustforfun (Kent is Back>>)
-wala lang trip ko lang
+<title>
+  wala lang trip ko lang
+</title>
 Play "Multo by Cup of Joe)
